@@ -1,0 +1,7 @@
+/mnt/hpc/mmul_harnes_instructional/mmul-harness-instructional/build/CMakeFiles/benchmark.dir
+/mnt/hpc/mmul_harnes_instructional/mmul-harness-instructional/build/CMakeFiles/benchmark-basic.dir
+/mnt/hpc/mmul_harnes_instructional/mmul-harness-instructional/build/CMakeFiles/benchmark-blas.dir
+/mnt/hpc/mmul_harnes_instructional/mmul-harness-instructional/build/CMakeFiles/benchmark-blocked.dir
+/mnt/hpc/mmul_harnes_instructional/mmul-harness-instructional/build/CMakeFiles/bench-blocked.dir
+/mnt/hpc/mmul_harnes_instructional/mmul-harness-instructional/build/CMakeFiles/edit_cache.dir
+/mnt/hpc/mmul_harnes_instructional/mmul-harness-instructional/build/CMakeFiles/rebuild_cache.dir
